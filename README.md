@@ -2,7 +2,7 @@
 
 I’m passionate about uncovering the stories hidden in data and turning those insights into meaningful actions. My journey in data analytics has been driven by curiosity, creativity, and a desire to solve complex problems.
 
-I’m currently exploring how data analytics, software development, and AI can come together to make an impact. Leading a team of talented engineers and analysts, I’m learning every day while building tools that solve real-world challenges—like tracking carbon emissions, diagnosing diseases, and empowering small businesses.
+I’m currently exploring how data analytics, software development, and AI can come together to make an impact. Leading a team of talented engineers and analysts, I’m learning every day while building tools that solve real-world challenges—like tracking carbon emissions, diagnosing diseases, and empowering small businesses. 
 
 ## What I’m Up To
 🔭 I currently oversee **4 interdisciplinary projects** that combine **data analytics, software development, and AI technologies**:
@@ -12,7 +12,6 @@ I’m currently exploring how data analytics, software development, and AI can c
 - **MSME Marketing Tool**: A recommendation system designed to optimize marketing strategies for small and medium-sized enterprises.
 
 🌱 Currently learning more about **advanced analytics tools** like Power BI and Alteryx.  
-📊 Working on **projects that simplify complexity and drive decision-making.**
 
 ## Tools I Use
 - 🛠️ Python, SQL, Tableau, RStudio
