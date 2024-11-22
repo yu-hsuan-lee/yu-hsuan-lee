@@ -7,7 +7,7 @@ I’m currently exploring how data analytics, software development, and AI can c
 ## What I’m Up To
 🔭 I currently oversee **4 interdisciplinary projects** that combine **data analytics, software development, and AI technologies**:
 - **Disease Diagnosis Tool**: A lightweight, symptom-based matching system for diagnosing dairy cow diseases for farmers in India.
-- **AI Vision Project**: Applying computer vision to analyze and classify visual data.
+- **AI Vision Project**: Applying computer vision to analyze and classify banana conditions for banana farmers.
 - **Carbon Emission Tool**: An analytics platform for calculating Scope 1 and Scope 2 emissions to help businesses track and reduce their environmental impact.
 - **MSME Marketing Tool**: A recommendation system designed to optimize marketing strategies for small and medium-sized enterprises.
 
