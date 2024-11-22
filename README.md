@@ -20,7 +20,7 @@ I’m currently exploring how data analytics, software development, and AI can c
 - 🌐 Notion, Asana, Jira
 - 🖍️ Canva
 
-## VERY Fun Facts
+## VERY Fun Facts 🤓
 - Love traveling to see my friends who live around the globe (it's **really** not for the free accommodation I promise)
 - I started volunteering in a medical camp in Cambodia since I was 12 (Best way of receiving is giving<3!)
 - I love cooking--> come join my other 26 followers [@emmiefood](https://instagram.com/emmiefood) (no pressure)
