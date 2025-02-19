@@ -8,7 +8,7 @@ I’m passionate about uncovering the stories hidden in data and turning those i
 🔭 I currently oversee **4 interdisciplinary projects** that combine **data analytics, software development, and AI technologies** with diverse teams to solve real-world challenges and empower communities:
 - **Disease Diagnosis Tool**: A lightweight, symptom-based matching system for diagnosing dairy cow diseases, supporting farmers in India.
 - **AI Vision Project**: Applying computer vision to analyze and classify banana conditions for banana farmers.
-- **Carbon Emission Tool**: An analytics platform for calculating Scope 1 and Scope 2 emissions to help businesses track and reduce their environmental impact.
+- **Carbon Emission Tool**: An analytics platform for calculating Scope 1, Scope 2, Scope 3 emissions to help businesses track and reduce their environmental impact.
 - **MSME Marketing Tool**: A recommendation system designed to optimize marketing strategies for small and medium-sized enterprises.
 
 🌱 Currently learning more about **advanced analytics tools** like Power BI and Alteryx.  
