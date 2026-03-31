@@ -1,17 +1,22 @@
 ## Hi, I’m Emily Lee 🦥😇
 
-I’m passionate about uncovering the stories hidden in data and turning those insights into meaningful actions. My journey in data analytics has been driven by curiosity, creativity, and a desire to solve complex problems.
+I’m passionate about uncovering the stories hidden in data and turning those insights into meaningful actions. My journey in data analytics has been driven by curiosity, creativity, and a desire to solve complex problems. Currently at **Keck Medicine of USC** working on healthcare analytics, BI infrastructure, and growth strategy.
 
 🐳I believe **together**, we can make the world a better place!🩵
 
-## What I’m Up To
-🔭 I currently oversee **4 interdisciplinary projects** that combine **data analytics, software development, and AI technologies** with diverse teams to solve real-world challenges and empower communities:
-- **Disease Diagnosis Tool**: A lightweight, symptom-based matching system for diagnosing dairy cow diseases, supporting farmers in India.
-- **AI Vision Project**: Applying computer vision to analyze and classify banana conditions for banana farmers.
-- **Carbon Emission Tool**: An analytics platform for calculating Scope 1, Scope 2 emissions to help businesses track and reduce their environmental impact.
-- **MSME Marketing Tool**: A recommendation system designed to optimize marketing strategies for small and medium-sized enterprises.
+## What I'm Working On
+🔭 At Keck,🔭 I’m currently working across analytics, business intelligence, and strategy, with projects that involve:
+* **Patient & Growth Analytics**: Understanding journeys, retention, and cross-utilization patterns
+* **Marketing Analytics**: Modeling performance and supporting better budget decisions
+* **BI & Reporting**: Building reporting and analytical views that make complex performance easier to understand
+* **Decision Support**: Translating messy business questions into something structured and usable
 
-🌱 Currently learning more about **advanced analytics tools** like Power BI and Alteryx.  
+## Past Projects
+🌍 Previously oversaw 4 interdisciplinary projects combining data analytics, AI, and software development for global impact:
+- **Disease Diagnosis Tool**: Symptom-based matching system for diagnosing dairy cow diseases, supporting farmers in India
+- **AI Vision Project**: Computer vision to analyze and classify banana conditions for farmers
+- **Carbon Emission Tool**: Analytics platform for calculating Scope 1 and 2 emissions to help businesses track their environmental impact
+- **MSME Marketing Tool**: Recommendation system to optimize marketing strategies for small and medium-sized enterprises 
 
 ## Tools I Use
 - 🛠️ Python, SQL, Tableau, RStudio
@@ -22,6 +27,7 @@ I’m passionate about uncovering the stories hidden in data and turning those i
 - Love traveling to see my friends who live around the globe (it's **really** not for the free accommodation I promise)
 - I started volunteering in a medical camp in Cambodia since I was 12 (Best way of receiving is giving<3!)
 - I love cooking--> come join my other 26 followers [@emmiefood](https://instagram.com/emmiefood) (no pressure)
+- 🐱 I’ve grown to love cats and volunteer at an animal shelter with [Stray Cat Alliance](https://www.instagram.com/straycatalliance/)
 - A golf girlie (amateur) trying to perfect my swing (emphasis on “trying”).  
 
 ### Let’s Connect
