@@ -19,9 +19,9 @@ I’m passionate about uncovering the stories hidden in data and turning those i
 - **MSME Marketing Tool**: Recommendation system to optimize marketing strategies for small and medium-sized enterprises 
 
 ## Tools I Use
-- 🛠️ Python, SQL, Tableau, RStudio
-- 🌐 Notion, Asana, Jira
-- 🖍️ Canva
+* 🛠️ **Analytics & BI:** Python, SQL, R, Tableau, Power BI, Excel
+* 🌐 **Apps & Interfaces:** Streamlit, React, Chart.js, Figma
+* 🤖 **Other Tools:** Machine Learning, LLMs, Visio, Canva
 
 ## VERY Fun Facts 🤓
 - Love traveling to see my friends who live around the globe (it's **really** not for the free accommodation I promise)
