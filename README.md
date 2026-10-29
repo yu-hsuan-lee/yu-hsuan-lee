@@ -1,27 +1,56 @@
-## Hi, I’m Emily Lee 🦥😇
+# Hi, I'm Emily Lee 🦥
 
-I’m passionate about uncovering the stories hidden in data and turning those insights into meaningful actions. My journey in data analytics has been driven by curiosity, creativity, and a desire to solve complex problems. Currently at **Keck Medicine of USC** working on healthcare analytics, BI infrastructure, and growth strategy.
+I work at the intersection of **data, strategy, and innovation**, combining analytical thinking, business strategy, and emerging technologies to solve complex problems and create meaningful impact.
 
-🐳I believe **together**, we can make the world a better place!🩵
+My experience spans **business analytics, consulting, marketing intelligence, and AI-enabled product development**. I enjoy turning ambiguous challenges into actionable insights, building innovative solutions, and helping people and organizations make better decisions.
 
-## What I'm Working On
-🔭 At Keck,🔭 I’m currently working across analytics, business intelligence, and strategy, with projects that involve:
-* **Patient & Growth Analytics**: Understanding journeys, retention, and cross-utilization patterns
-* **Marketing Analytics**: Modeling performance and supporting better budget decisions
-* **BI & Reporting**: Building reporting and analytical views that make complex performance easier to understand
-* **Decision Support**: Translating messy business questions into something structured and usable
+Currently at **Keck Medicine of USC**, working across healthcare growth analytics, strategic intelligence, and AI-powered business transformation.
 
-## Past Projects
-🌍 Previously oversaw 4 interdisciplinary projects combining data analytics, AI, and software development for global impact:
-- **Disease Diagnosis Tool**: Symptom-based matching system for diagnosing dairy cow diseases, supporting farmers in India
-- **AI Vision Project**: Computer vision to analyze and classify banana conditions for farmers
-- **Carbon Emission Tool**: Analytics platform for calculating Scope 1 and 2 emissions to help businesses track their environmental impact
-- **MSME Marketing Tool**: Recommendation system to optimize marketing strategies for small and medium-sized enterprises 
+🐳 I believe we can make the world a little better, together. 🩵
 
-## Tools I Use
-* 🛠️ **Analytics & BI:** Python, SQL, R, Tableau, Power BI, Excel
-* 🌐 **Apps & Interfaces:** Streamlit, React, Chart.js, Figma
-* 🤖 **Other Tools:** Machine Learning, LLMs, Visio, Canva
+## Explore My Work ✨
+
+My projects reflect three things I'm passionate about:
+
+| 🎯 Strategy | 📊 Analytics | 💡 Innovation |
+|---|---|---|
+| Understanding complex business challenges and identifying opportunities for growth. | Turning data into insights through modeling, measurement, and visualization. | Applying AI and emerging technologies to improve products, processes, and decision-making. |
+
+### Selected Projects 🌍
+
+**Healthcare, Analytics & AI**
+- **Healthcare Intelligence & AI Automation:** Developing AI-enabled analytical workflows that integrate data, automate intelligence generation, and incorporate evidence validation to support strategic planning.
+- **Marketing Mix Modeling:** Applying statistical modeling, forecasting, and scenario analysis to evaluate marketing effectiveness and inform investment decisions.
+- **Healthcare Operations & Patient Flow:** Applying demand forecasting and queue simulations to identify operational bottlenecks and inform staffing strategies through a client-sponsored project with Sollis Health.
+
+**Strategy, Consulting & Product Innovation**
+- **KPMG AcorTax — Growth & Product Strategy:** Exploring market expansion, customer adoption, and commercialization opportunities for a tax transparency platform.
+- **Pacaso — AI & Customer Experience Transformation:** Developing an AI-enabled personalization strategy and reimagining the customer journey for luxury second-home ownership.
+- **Carbon Emissions Accounting:** Managing product development of a data-driven carbon accounting solution with an Indonesian garment manufacturer.
+
+**AI for Social Impact**
+- **AI-Powered Livestock Health:** Symptom-based decision support for dairy farmers.
+- **Agricultural Computer Vision:** Image classification to assess banana conditions.
+- **MSME Marketing Recommendations:** Data-driven recommendations to support small-business marketing decisions.
+
+*Selected professional projects are described at a high level. Client-sponsored academic projects reflect team deliverables and proposed solutions.*
+
+## What I'm Working On 🔭
+
+At Keck, I'm connecting analytics, business strategy, and AI-enabled innovation through:
+
+- **Growth & Marketing Intelligence:** Analyzing patient journeys, acquisition, marketing effectiveness, and investment opportunities.
+- **Advanced Analytics & Decision Support:** Applying statistical modeling, forecasting, and data integration to complex business questions.
+- **AI & Product Development:** Building LLM-powered intelligence workflows with structured data processing, context engineering, evidence traceability, and automated validation.
+- **Strategy & Transformation:** Collaborating across functions to translate business needs into scalable analytical and technology-enabled solutions.
+
+## Tools & Capabilities 🛠️
+
+- **Analytics & Modeling:** Python, SQL, R, Excel, machine learning, forecasting, statistical modeling, optimization
+- **BI & Visualization:** Tableau, Power BI, Chart.js
+- **Applied AI:** LLM integration, prompt and context engineering, analytical automation, AI evaluation, and workflow validation
+- **Product & Development:** Streamlit, React, Figma, Git/GitHub, AI-assisted development with Codex and Claude Code
+- **Strategy & Collaboration:** Requirements gathering, process mapping, stakeholder engagement, Visio, Canva
 
 ## VERY Fun Facts 🤓
 - Love traveling to see my friends who live around the globe (it's **really** not for the free accommodation I promise)
@@ -31,5 +60,6 @@ I’m passionate about uncovering the stories hidden in data and turning those i
 - A golf girlie (amateur) trying to perfect my swing (emphasis on “trying”).
 - My new [coloring book](https://www.amazon.com/dp/B0HNR6QRS1)!
 
-### Let’s Connect
-- LinkedIn: https://www.linkedin.com/in/yuhsuan-lee
+### Let’s Connect 💌
+
+[LinkedIn](https://www.linkedin.com/in/yuhsuan-lee) · Portfolio coming soon!
