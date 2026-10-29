@@ -59,6 +59,7 @@ At Keck, I'm connecting analytics, business strategy, and AI-enabled innovation 
 - 🐱 I’ve grown to love cats and volunteer at an animal shelter with [Stray Cat Alliance](https://www.instagram.com/straycatalliance/)
 - A golf girlie (amateur) trying to perfect my swing (emphasis on “trying”).
 - I also made a [coloring book](https://www.amazon.com/dp/B0HNR6QRS1)!
+- and sometimes a gamer and make [animal crossing contents](https://www.tiktok.com/t/ZPLDLKtxF/) 🎮
 
 ## 🏀 KNICKS IN 5 🏀
 
