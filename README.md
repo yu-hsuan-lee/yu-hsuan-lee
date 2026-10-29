@@ -28,7 +28,8 @@ I’m passionate about uncovering the stories hidden in data and turning those i
 - I started volunteering in a medical camp in Cambodia since I was 12 (Best way of receiving is giving<3!)
 - I love cooking--> come join my other 26 followers [@emmiefood](https://instagram.com/emmiefood) (no pressure)
 - 🐱 I’ve grown to love cats and volunteer at an animal shelter with [Stray Cat Alliance](https://www.instagram.com/straycatalliance/)
-- A golf girlie (amateur) trying to perfect my swing (emphasis on “trying”).  
+- A golf girlie (amateur) trying to perfect my swing (emphasis on “trying”).
+- My new [coloring book](https://www.amazon.com/dp/B0HNR6QRS1)!
 
 ### Let’s Connect
 - LinkedIn: https://www.linkedin.com/in/yuhsuan-lee
