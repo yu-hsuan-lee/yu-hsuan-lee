@@ -58,8 +58,9 @@ At Keck, I'm connecting analytics, business strategy, and AI-enabled innovation 
 - I love cooking--> come join my other 26 followers [@emmiefood](https://instagram.com/emmiefood) (no pressure)
 - 🐱 I’ve grown to love cats and volunteer at an animal shelter with [Stray Cat Alliance](https://www.instagram.com/straycatalliance/)
 - A golf girlie (amateur) trying to perfect my swing (emphasis on “trying”).
-- My new [coloring book](https://www.amazon.com/dp/B0HNR6QRS1)!
-- KNICKS IN 5 🏀🏀🏀🏀🏀
+- I also made a [coloring book](https://www.amazon.com/dp/B0HNR6QRS1)!
+
+## 🏀 KNICKS IN 5 🏀
 
 ### Let’s Connect 💌
 
